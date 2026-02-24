@@ -25,3 +25,5 @@
 
  ## Ekran Goruntusu
  (ekran goruntusunu buraya ekle)
+ ## Lighthouse Erişilebilirlik Raporu
+![Lighthouse Skoru](./src/lighthouse.png)
